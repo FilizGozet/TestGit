@@ -1,6 +1,6 @@
 /*
  * Filiz GOZET
- * 20.10.2018
+ * 20.10.2018 tarihinde yapilmistir.
  */
 
 
